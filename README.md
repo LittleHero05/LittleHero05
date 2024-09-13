@@ -1,7 +1,11 @@
 ### Hi there 👋
-🔭 I am currently working on leaning intermideate java script with the odin project.
+💬 I am a 2nd year software engineering student.
 
-🌱 I am learning some game development in godot and unity
+🌱 I enjoy doing data visualizations and analysis of randoms things and hobbies.
+
+🔭 I am currently learning JS, React, Node and more with The Oding Project.
+
+
 <!--
 **LittleHero05/LittleHero05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
