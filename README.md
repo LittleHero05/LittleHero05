@@ -1,7 +1,7 @@
 ### Hi there 👋
 💬 I am a 2nd year software engineering student.
 
-🌱 I enjoy doing data visualizations and analysis of randoms things and hobbies.
+🌱 I enjoy doing data visualizations and analysis of random topics and hobbies.
 
 🔭 I am currently learning JS, React, Node and more with The Oding Project.
 
