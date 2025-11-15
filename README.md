@@ -3,7 +3,7 @@
 
 🌱 I enjoy doing data analysis of random topics and developing quick simple apps tailored to unique needs.
 
-🔭 I am currently learning React, and working my way through Kaggle learning and competitions.
+🔭 I am currently working with Typescript, and working my way through Kaggle learning and competitions.
 
 
 <!--
